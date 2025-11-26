@@ -1,46 +1,35 @@
-#🐺 Hi, I'm Nakorn born to be Fullstack!
-##🚀 Tech Stack
-###🎨 Frontend
+<h1 align="center">🐺 Hi, I'm Nakorn — born to be Fullstack!</h1>
 
-Next.js / React
+---
 
-Vue.js
+## 🚀 Tech Stack
 
-HTML / CSS / Tailwind CSS
+### 🎨 Frontend  
+- Next.js / React  
+- Vue.js  
+- HTML / CSS / Tailwind CSS  
+- Bootstrap 5  
 
-Bootstrap 5
+### 🛠 Backend  
+- PHP (Yii2 Framework)  
+- Python (FastAPI)  
+- Node.js  
+- RESTful API Development  
 
-###🛠 Backend
+### 🧠 AI & Machine Learning  
+- Python / PyTorch  
+- Deep Learning for Image Processing  
 
-PHP (Yii2 Framework)
+### 🗄 Database  
+- MySQL / MariaDB  
+- MongoDB  
+- Prisma ORM  
 
-Python (FastAPI)
+### ⚙ Tools & DevOps  
+- Git / GitHub  
+- VS Code  
+- XAMPP / Laragon  
+- Postman  
 
-Node.js 
-
-RESTful API Development
-
-###🧠 AI & Machine Learning
-
-Python / PyTorch
-
-Deep Learning for Image Processing
-
-###🗄 Database
-
-MySQL / MariaDB
-
-MongoDB
-
-Prisma ORM
-
-###⚙ Tools & DevOps
-
-Git / GitHub
-
-VS Code
-
-XAMPP / Laragon
-
-Postman
+---
 
