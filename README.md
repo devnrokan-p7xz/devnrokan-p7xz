@@ -1,6 +1,6 @@
-🐺 Hi, I'm Nakorn born to be Fullstack!
-🚀 Tech Stack
-🎨 Frontend
+#🐺 Hi, I'm Nakorn born to be Fullstack!
+##🚀 Tech Stack
+###🎨 Frontend
 
 Next.js / React
 
@@ -10,7 +10,7 @@ HTML / CSS / Tailwind CSS
 
 Bootstrap 5
 
-🛠 Backend
+###🛠 Backend
 
 PHP (Yii2 Framework)
 
@@ -20,14 +20,13 @@ Node.js
 
 RESTful API Development
 
-🧠 AI & Machine Learning
+###🧠 AI & Machine Learning
 
 Python / PyTorch
 
 Deep Learning for Image Processing
 
-
-🗄 Database
+###🗄 Database
 
 MySQL / MariaDB
 
@@ -35,7 +34,7 @@ MongoDB
 
 Prisma ORM
 
-⚙ Tools & DevOps
+###⚙ Tools & DevOps
 
 Git / GitHub
 
