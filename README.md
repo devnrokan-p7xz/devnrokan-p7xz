@@ -1,4 +1,4 @@
-<h1 align="center">🐺 Hi, I'm Nakorn — born to be Fullstack!</h1>
+<h1 align="center">🐺 Hi, I'm Nakorn — </h1>
 
 ---
 
