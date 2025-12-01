@@ -11,8 +11,8 @@
 - Bootstrap 5  
 
 ### 🛠 Backend  
-- PHP (Yii2 Framework)  
-- Python (FastAPI)  
+- PHP 
+- Python  
 - Node.js  
 - RESTful API Development  
 
